@@ -7,7 +7,7 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyTitle("DependecyResolver")]
 [assembly: AssemblyDescription("GPL 3")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("http://madebits.com")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
 [assembly: AssemblyCopyright("Vasian Cepa")]
 [assembly: AssemblyTrademark("")]
